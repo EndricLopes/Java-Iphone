@@ -1,6 +1,7 @@
 ## UML Iphone
 
-![UML Iphone](https://github.com/EndricLopes/Java-Iphone/assets/142428267/c59d297e-2530-4050-809c-6d7316426f68)
+
+![imagem correta](https://github.com/EndricLopes/Java-Iphone/assets/142428267/e824d5de-7c7b-489f-abe6-0b32fe7f61d8)
 
 
 ## Folder Structure
